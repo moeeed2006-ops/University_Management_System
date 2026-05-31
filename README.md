@@ -234,8 +234,8 @@ University-Management-System/
 
 # Authors
 
-### Abdul Moeed
-### Arfia Zia
+## 1. Abdul Moeed
+## 2. Arfia Zia
 
 ### Institute
 
